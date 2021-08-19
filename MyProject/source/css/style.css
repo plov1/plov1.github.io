@@ -92,46 +92,88 @@ nav{
     margin: 37px 0px 100px 887px;
 }
 .Skills {
+    height: 521px;
     width: 100%;
-    background: url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B0.png) no-repeat 100% 100%;
+    background: url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B0.png) no-repeat;
     background-size: cover;
 }
 .Skills h2 {
     font-weight: bold;
     color: #263244;
     font-size: 35px;
-    padding: 107px 0px 0px 875px;
+    padding: 50px 0px 0px 875px;
     text-transform: uppercase;
     
 }
 .Skills_image_title {
     padding: 30px 0px 0px 950px;
+    
 }
 .Skills_WEB{
     display: inline-block;
+    padding: 110px 79px 0px 222px;
+}
+.Skills_WEB img {
+    margin: 0px 0px 0px 120px;
+}
+.Skills_WEB h3{
+    color: #cf7600;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 25px 0px 25px 80px;
+}
+.Skills_WEB p {
+    text-align: center;
 }
 .Skills_create {
     display: inline-block;
+    padding: 0px 79px 0px 0px;
 }
+.Skills_create img {
+    margin-left: 120px;
+}
+.Skills_create h3{
+    color: #cf7600;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 25px 0px 25px 80px;
+    
+}
+.Skills_create p {
+    text-align: center;
+}
+
 .Skills_CEO {
     display: inline-block;
+    padding: 0px 79px 0px 0px;
     
+}
+.Skills_CEO img {
+    margin-left: 120px;
+}
+.Skills_CEO h3 {
+    color: #cf7600;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 25px 0px 25px 80px;
+}
+.Skills_CEO p {
+    text-align: center;
 }
 .Skills_Market{
     display: inline-block;
-    
 }
-.Skills_WEB h3 {
+.Skills_Market img {
+    margin-left: 125px;
+}
+.Skills_Market h3 {
     color: #cf7600;
-    font-size: 20px;
     font-weight: bold;
-    padding: 35px 0px 22px 60px;
+    font-size: 25px;
+    padding: 25px 0px 25px 80px;
 }
-.Skills_WEB img {
-    margin-left: 80px;
-}
-.Skills_WEB p{
-    text-align: justify;
+.Skills_Market p {
+    text-align: center;
 }
 .Case {
     width: 100%;
@@ -180,7 +222,7 @@ padding: 108px 0px 0px 917px;
 
     display: inline-block;
     padding-left: 200px;
-    
+    vertical-align: top;
 }
 .Name_project h3 {
     color: #384354;
