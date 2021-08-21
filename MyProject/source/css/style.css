@@ -106,12 +106,13 @@ nav{
     
 }
 .Skills_image_title {
-    padding: 30px 0px 0px 950px;
+    padding: 30px 0px 50px 950px;
     
 }
 .Skills_WEB{
     display: inline-block;
-    padding: 110px 79px 0px 222px;
+    padding: 0px 79px 0px 222px;
+    vertical-align: top;
 }
 .Skills_WEB img {
     margin: 0px 0px 0px 120px;
@@ -128,6 +129,7 @@ nav{
 .Skills_create {
     display: inline-block;
     padding: 0px 79px 0px 0px;
+    vertical-align: top;
 }
 .Skills_create img {
     margin-left: 120px;
@@ -146,7 +148,7 @@ nav{
 .Skills_CEO {
     display: inline-block;
     padding: 0px 79px 0px 0px;
-    
+    vertical-align: top;
 }
 .Skills_CEO img {
     margin-left: 120px;
@@ -162,6 +164,7 @@ nav{
 }
 .Skills_Market{
     display: inline-block;
+    vertical-align: top;
 }
 .Skills_Market img {
     margin-left: 125px;
@@ -234,4 +237,224 @@ padding: 108px 0px 0px 917px;
     color: #3f495a;
     font-size: 15px;
     
+}
+.Price {
+    width: 100%;
+}
+.Price h2 {
+    color: #1c2534;
+    font-size: 30px;
+    text-transform: inherit;
+padding-left: 806px;
+    padding-top: 205px;
+    padding-bottom: 65px;
+}
+.type {
+    padding-left: 504px;
+}
+.type h3 {
+    color: #1c2534;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.Design {
+    padding-top: 46px;
+    padding-left: 504px;
+}
+.Design h3 {
+    color: #1c2534;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.Adaptate {
+    padding-top: 46px;
+    padding-left: 504px;
+}
+.Adaptate h3 {
+    color: #1c2534;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.Price img{
+    padding-left: 504px;
+    padding-top: 46px;
+}
+.resul {
+    display: inline-block;
+padding-top: 25px;
+    padding-left: 504px;
+color: #1c2534;
+    font-weight: bold;
+}
+.null {
+    display: inline-block;
+    padding-left: 763px;
+    color: #1c2534;
+    font-weight: bold;
+}
+.Statistics {
+    background: url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B0.png);
+    background-size: cover; 
+    margin-top: 158px;
+}
+.Statistics_title  h2{
+    padding-top: 103px;
+    padding-left: 803px;
+    padding-bottom: 40px;
+    color: #323e4f;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.Statistics p{
+    color: #323e4f;
+    font-weight: bold;
+    font-size: 15px;
+}
+.Stat_img {
+    padding-left: 900px;
+    padding-bottom: 87px;
+}
+
+    
+.Statistics h3{
+    font-weight: bold;
+    font-size: 25px;
+    color: #323e4f;
+    padding-bottom: 37px;
+}
+.client {
+    display: inline-block;
+    padding: 0px 120px 106px 443px;
+    text-align: center;
+    vertical-align: top;
+}
+.client img {
+    margin-bottom: 37px;
+}
+.hour{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    padding: 0px 120px 0px 0px;
+}
+.hour img{
+    margin-bottom: 37px;
+}
+.mark{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    padding: 0px 120px 0px 0px;
+}
+.mark img{
+    margin-bottom: 37px;
+}
+.Project {
+     display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    padding: 0px 120px 0px 0px;
+}
+.Project img{
+    margin-bottom: 37px;
+}
+Reviews{
+    width: 100%;
+
+}
+.Reviews h2 {
+    padding: 85px 0px 0px 900px;
+    color: #243042;
+    font-size: 30px;
+    font-weight: bold;
+}
+.Reviews_title img{
+    padding: 35px 0px 35px 930px;
+}
+.Reviews_main img {
+    padding: 0px 0px 35px 910px;
+}
+.Reviews_main p{
+    text-align: center;
+    padding-left: 315px;
+    margin-bottom: 57px;
+}
+.kick{
+
+}
+.My_contacts {
+    background: url(../img/%D0%A4%D0%BE%D0%BD%20posl.png) no-repeat;
+    background-size: cover;
+    color: white;
+    width: 100%;
+}
+.My_contacts h2{
+    padding: 106px 0px 37px 861px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.Contacts_title img {
+    padding: 0px 0px 30px 950px;
+}
+.Contacts_title p{
+    text-align: center;
+    padding: 0px 0px 51px 305px;
+    
+}
+.SPB{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    padding: 0px 101px 0px 656px;
+}
+.SPB h2{
+    padding: 0px 0px 0px 0px;
+    font-weight: normal;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.SPB img {
+    padding-bottom: 10px;
+}
+.Mail{
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+.Mail img{
+    padding-bottom: 10px;
+}
+.Tel{
+    display: inline-block;
+    padding-left: 101px;
+    text-align: center;
+    vertical-align: top;
+}
+.Tel img{
+    padding-bottom: 10px;
+}
+.MyMessage h3{
+    padding: 59px 0px 0px 839px;
+    font-size: 20px;
+    font-weight: 300;
+}
+.FIO {
+   display: inline-block;
+    float: left;
+    padding: 50px 30px 20px 600px;
+}
+.Email {
+    display: inline-block;
+    padding: 50px 30px 20px 0px
+}
+.Message {
+    display: inline-block;
+    padding: 0px 0px 30px 600px;
+}
+.Send{
+    background: url(../img/%D0%A4%D0%BE%D0%BD%20posl.png) no-repeat 
 }
